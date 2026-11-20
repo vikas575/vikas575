@@ -1,31 +1,23 @@
 # Hi, I'm Vikas
 
-I build backend tools in Python. My projects explore how to reconstruct a payment
-when events arrive out of order, decide what an AI agent can spend, and measure
-how well an agent handles a support ticket.
+I'm a backend developer working with **Spring Boot**. I'm interested in how services handle late events, enforce spending limits, and explain their decisions.
 
 ## Selected projects
 
 ### [Payment Truth](https://github.com/vikas575/razorpay_build_aithon)
 
-A payment reconciliation prototype built with FastAPI and React. It reconstructs
-payment timelines from event timestamps and flags cases where payment and order
-records disagree.
+What happens when a payment capture notification arrives before its authorization? This reconciliation prototype uses event timestamps to reconstruct the payment timeline and flags disagreements between payment and order records.
 
 [Out-of-order event test](https://github.com/vikas575/razorpay_build_aithon/blob/main/backend/tests/test_state_machine.py) · [Benchmark report for 10,000 simulated payment flows](https://github.com/vikas575/razorpay_build_aithon/blob/main/backend/evaluation/reports/benchmark_10000.json)
 
 ### [Aegis](https://github.com/vikas575/aegis)
 
-A Team AtheneX hackathon prototype for controlling what financial AI agents can
-do. A FastAPI service checks each request against permissions and spending
-limits, then records why it allowed, denied, or requested approval for the action.
+A Team AtheneX hackathon prototype that checks a financial AI agent’s permissions and spending limits before an action goes through. Its audit log records why a request was allowed, denied, or sent for approval.
 
 [Read the policy evaluator](https://github.com/vikas575/aegis/blob/main/backend/policy_engine.py)
 
 ### [Customer Support OpenEnv](https://github.com/vikas575/scaler_hackathon)
 
-A Python environment for evaluating AI agents on three support tasks: classifying
-tickets, drafting replies, and deciding which cases need escalation. Each task
-has its own scoring rules.
+An evaluation environment for support agents. It scores how well an agent classifies incoming tickets, drafts replies, and decides which cases to escalate.
 
 [Explore the scoring rules](https://github.com/vikas575/scaler_hackathon/blob/main/src/task_graders.py)
