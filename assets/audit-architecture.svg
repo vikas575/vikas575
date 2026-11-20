@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="148" viewBox="0 0 640 148" role="img"><title>Secure Audit and Logging System</title><desc>Menu to Service to DAO to MySQL. The highlighted database layer was my responsibility.</desc>
+<rect width="640" height="148" rx="14" fill="#eff3e9"/>
+<g fill="none" stroke="#49675c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M113 93H149m-6-5 6 5-6 5M268 93h32m-6-5 6 5-6 5M385 93h37m-6-5 6 5-6 5"/></g>
+<text x="25" y="39" font-family="Arial, sans-serif" font-size="23" font-weight="bold" fill="#284c41">Audit system architecture</text>
+<g font-family="Arial, sans-serif" font-size="23" text-anchor="middle">
+<rect x="23" y="66" width="88" height="54" rx="9" fill="#fff" stroke="#a6bdaf"/><text x="67" y="101" fill="#203e34">Menu</text>
+<rect x="153" y="66" width="112" height="54" rx="9" fill="#fff" stroke="#a6bdaf"/><text x="209" y="101" fill="#203e34">Service</text>
+<rect x="304" y="66" width="78" height="54" rx="9" fill="#fff" stroke="#a6bdaf"/><text x="343" y="101" fill="#203e34">DAO</text>
+<rect x="426" y="66" width="185" height="54" rx="9" fill="#214e40"/>
+<g transform="translate(445 78)" fill="none" stroke="#d8efa8" stroke-width="1.7"><ellipse cx="12" cy="5" rx="11" ry="4"/><path d="M1 5v17c0 5 22 5 22 0V5M1 12c0 5 22 5 22 0"/></g><text x="536" y="101" fill="#f4f7dd">MySQL</text>
+</g></svg>
