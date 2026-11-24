@@ -4,11 +4,9 @@
 
 # Vikas Kumar
 
-<img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/availability.svg" width="204" height="30" alt="Open to SDE internships" />
-
 **Spring Boot backend developer** · Computer Science at SIT Pune · Class of 2028
 
-I build Java services and design the MySQL databases behind them.
+I build Java services and design the MySQL databases behind them. I’m looking for a software development internship.
 
 <a href="https://www.linkedin.com/in/vikas-kumar-5759b01aa/"><img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/linkedin.svg" height="24" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/vikas575?tab=repositories"><img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/repositories.svg" height="24" alt="Browse public repositories" /></a>
@@ -52,3 +50,10 @@ An admin can manage other accounts. What happens when they try to remove the las
 </p>
 <p align="center">Spring Boot · REST APIs · JDBC · SQL</p>
 <p align="center"><img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/espresso.svg" width="126" alt="A small pixel-art coffee cup with rising steam" /></p>
+
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikas575/vikas575/contribution-animation/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/vikas575/vikas575/contribution-animation/snake.svg" width="100%" alt="A purple snake moves across Vikas’s GitHub contribution calendar, eating the green squares that mark active days." />
+</picture>
