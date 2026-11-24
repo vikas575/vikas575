@@ -54,6 +54,6 @@ An admin can manage other accounts. What happens when they try to remove the las
 ## Contribution activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikas575/vikas575/contribution-animation/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/vikas575/vikas575/contribution-animation/snake.svg" width="100%" alt="A purple snake moves across Vikas’s GitHub contribution calendar, eating the green squares that mark active days." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikas575/vikas575/contribution-animation/snake-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/vikas575/vikas575/contribution-animation/snake.svg?v=2" width="100%" alt="A green snake grows by one segment for each active day on Vikas’s contribution calendar. The faintest green marks days with zero contributions." />
 </picture>

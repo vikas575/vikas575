@@ -17,13 +17,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:
-      - name: Draw the contribution snake
-        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+      - name: Check out the animation generator
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=#8250df
-            dist/snake-dark.svg?palette=github-dark&color_snake=#d2a8ff
+          persist-credentials: false
+
+      - name: Draw the growing contribution snake
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          query='query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar { weeks { contributionDays { weekday contributionLevel } } }
+              }
+            }
+          }'
+          gh api graphql -F login="$GITHUB_REPOSITORY_OWNER" -f query="$query" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.weeks' \
+            | node .github/scripts/contribution-snake.mjs dist
 
       - name: Publish the light and dark animations
         env:
