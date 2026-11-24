@@ -6,8 +6,8 @@
 
 I build Java services and design the MySQL databases behind them. I’m looking for a software development internship.
 
-<a href="https://www.linkedin.com/in/vikas-kumar-5759b01aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="24" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/vikas575?tab=repositories"><img src="https://img.shields.io/badge/Repositories-CA5726?style=for-the-badge" height="24" alt="Browse public repositories" /></a>
+<a href="https://www.linkedin.com/in/vikas-kumar-5759b01aa/"><img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/linkedin.svg" height="24" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/vikas575?tab=repositories"><img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/repositories.svg" height="24" alt="Browse public repositories" /></a>
 
 </div>
 
