@@ -1,29 +1,50 @@
-![Vikas Kumar · Spring Boot backend developer](https://raw.githubusercontent.com/vikas575/vikas575/main/assets/profile-cover.webp)
+<div align="center">
 
-I build backend services with **Java, Spring Boot and MySQL**. I study Computer Science and Engineering at Symbiosis Institute of Technology, Pune (class of 2028), and I’m looking for a software development internship. [Connect on LinkedIn](https://www.linkedin.com/in/vikas-kumar-5759b01aa/)
+# Vikas Kumar
 
-## Secure Audit & Logging System
+**Spring Boot backend developer** · Computer Science at SIT Pune · Class of 2028
 
-What happens if an admin tries to remove the last admin account? In our four-person team’s audit system, the database itself guards against it. I designed the MySQL schema and wrote the triggers and stored procedures behind the Java/JDBC service.
+I build Java services and design the MySQL databases behind them. I’m looking for a software development internship.
 
-![My contribution to the database layer: 6 tables, 4 triggers, and 5 stored procedures.](https://raw.githubusercontent.com/vikas575/vikas575/main/assets/audit-system.webp)
+<a href="https://www.linkedin.com/in/vikas-kumar-5759b01aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="24" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/vikas575?tab=repositories"><img src="https://img.shields.io/badge/Repositories-CA5726?style=for-the-badge" height="24" alt="Browse public repositories" /></a>
 
-I also led testing for sign-in, sessions and permissions. That included verifying access for the admin, analyst and user roles.
+</div>
 
-## [Payment Truth](https://github.com/vikas575/razorpay_build_aithon)
+## 🔐 Featured build
 
-A payment capture can reach a merchant before the authorization that made it possible. Payment Truth rebuilds the timeline using event timestamps, then flags mismatches between payment and order records.
+**Secure Audit & Logging System** · Java, JDBC, MySQL
 
-| What the merchant receives | What happened |
-| --- | --- |
-| Captured → Authorized | Authorized → Captured |
+An admin can manage other accounts. What happens when they try to remove the last admin? In our four-person team’s audit system, a database trigger guards against that. I designed the six-table schema, wrote four triggers and five stored procedures, and led access-control testing across the admin, analyst and user roles.
 
-[Read the regression test](https://github.com/vikas575/razorpay_build_aithon/blob/main/backend/tests/test_state_machine.py) · [Inspect the benchmark for 10,000 simulated payments](https://github.com/vikas575/razorpay_build_aithon/blob/main/backend/evaluation/reports/benchmark_10000.json)
+<details>
+<summary>See where the database fits in the Java application</summary>
+<br />
+<img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/audit-architecture.svg" width="640" alt="The menu calls the service layer, which uses a data access object to reach MySQL." />
+</details>
 
-## Other work
+## 🏆 Highlights
 
-| Project | Inside the project |
-| --- | --- |
-| **Vedology** | I prepared source texts and generated multilingual embeddings for FAISS search. Our chatbot returns verses with transliterations and citations. I presented it at SIT Pune’s Industry Conclave. |
-| **[Aegis](https://github.com/vikas575/aegis)** | A financial AI agent requests an action. The service checks its permissions and spending limits, then logs the decision. [Policy evaluator](https://github.com/vikas575/aegis/blob/main/backend/policy_engine.py) |
-| **[Customer Support OpenEnv](https://github.com/vikas575/scaler_hackathon)** | An evaluation environment that scores AI agents on ticket classification, reply quality and escalation decisions. [Scoring rules](https://github.com/vikas575/scaler_hackathon/blob/main/src/task_graders.py) |
+- **Top 30 at Prompt Wars** in competitive prompt engineering.
+- **Smart India Hackathon:** Led the team behind an Ayurvedic herb traceability dashboard. We qualified through the college’s internal round. [Explore the dashboard](https://github.com/vikas575/ayurvedic-traceability-sih2025)
+- **SIT Pune Industry Conclave:** Presented Vedology, our chatbot that retrieves verses and shows their sources.
+
+## Projects
+
+### Backend systems
+
+- **[Payment Truth](https://github.com/vikas575/razorpay_build_aithon)** reconstructs a payment when its capture notification arrives before its authorization. [Read the regression test](https://github.com/vikas575/razorpay_build_aithon/blob/main/backend/tests/test_state_machine.py) · [Inspect 10,000 simulated payments](https://github.com/vikas575/razorpay_build_aithon/blob/main/backend/evaluation/reports/benchmark_10000.json)
+- **[Aegis](https://github.com/vikas575/aegis)** checks a financial AI agent’s permissions and spending limits before an action goes through. Its audit log records the reason for each decision. [Policy evaluator](https://github.com/vikas575/aegis/blob/main/backend/policy_engine.py)
+
+### Search & evaluation
+
+- **Vedology** retrieves verses with transliterations and citations. I prepared the source texts and generated multilingual embeddings for FAISS search.
+- **[Customer Support OpenEnv](https://github.com/vikas575/scaler_hackathon)** scores AI agents on three tasks: classifying tickets, drafting replies and deciding which cases to escalate. [Scoring rules](https://github.com/vikas575/scaler_hackathon/blob/main/src/task_graders.py)
+
+## 🧰 Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,idea,postman&amp;perline=6" width="290" alt="Java, Spring, MySQL, Git, IntelliJ IDEA and Postman" />
+</p>
+<p align="center">Spring Boot · REST APIs · JDBC · SQL</p>
+<p align="center"><img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/espresso.svg" width="126" alt="A small pixel-art coffee cup with rising steam" /></p>

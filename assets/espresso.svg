@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="88" viewBox="0 0 86 44" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Pixel-art espresso cup with rising steam</title>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .steam { animation: rise 3s steps(4, end) infinite; }
+      .second { animation-delay: -1.2s; }
+      @keyframes rise { 0% { transform: translateY(2px); opacity: .4; } 50% { opacity: 1; } 100% { transform: translateY(-3px); opacity: .35; } }
+    }
+  </style>
+  <g fill="#91a5b2"><path class="steam" d="M34 4h2v3h-2v3h2v3h-2v-2h-2V7h2z"/><path class="steam second" d="M44 3h2v3h-2v3h2v3h-2v-2h-2V6h2z"/></g>
+  <path fill="#573522" d="M22 16h35v2h8v2h2v8h-2v2h-4v2h-7v2h-3v2H30v-2h-4v-3h-2v-4h-2z"/>
+  <path fill="#ffb162" d="M54 20h9v2h2v4h-2v2h-8v-2h5v-4h-6z"/>
+  <path fill="#ffd592" d="M24 18h30v9h-2v4h-3v2H31v-2h-4v-5h-3z"/>
+  <path fill="#e98342" d="M49 20h6v7h-2v4h-3v2H31v-2h15v-2h3z"/>
+  <path fill="#fff2cf" d="M24 16h31v2H24zm2 4h3v7h-2v-4h-1z"/>
+  <path fill="#7a4930" d="M28 17h23v2H28z"/><path fill="#d38a4b" d="M31 17h11v1H31z"/>
+  <path fill="#855039" d="M40 21h5v2h-2v2h-2v2h-5v-2h2v-2h2z"/>
+  <path fill="#ffd592" d="M42 22h1v1h-1v1h-2v1h-1v-1h1v-1h2z"/>
+  <path fill="#667981" d="M16 35h48v2h-4v2H21v-2h-5z"/><path fill="#bac7c6" d="M16 34h48v2H16z"/><path fill="#eef2e2" d="M21 34h28v1H21z"/>
+</svg>
