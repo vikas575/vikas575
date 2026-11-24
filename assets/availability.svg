@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="30" viewBox="0 0 204 30" role="img" aria-labelledby="title">
+  <title id="title">Open to SDE internships</title>
+  <style>
+    .surface { fill: #ecf9ef; stroke: #a7d9b0; }
+    .label { fill: #18532b; font: 600 14px Arial, Helvetica, sans-serif; }
+    .dot { fill: #19813f; }
+    .ring { fill: none; stroke: #26944c; stroke-width: 1.4; opacity: .45; transform-origin: 17px 15px; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #112a1c; stroke: #305d3f; }
+      .label { fill: #c5f3cd; }
+      .dot { fill: #56e77e; }
+      .ring { stroke: #63f289; }
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .ring { animation: pulse 2.2s ease-out infinite; }
+    }
+    @keyframes pulse {
+      0% { transform: scale(.72); opacity: .85; }
+      78%, 100% { transform: scale(1.65); opacity: 0; }
+    }
+  </style>
+  <rect class="surface" x=".5" y=".5" width="203" height="29" rx="14.5"/>
+  <circle class="ring" cx="17" cy="15" r="5.4"/>
+  <circle class="dot" cx="17" cy="15" r="4"/>
+  <text class="label" x="32" y="19.8">Open to SDE internships</text>
+</svg>
