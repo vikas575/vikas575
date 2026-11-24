@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/vikas-doodle.webp" width="480" alt="Vikas’s purple GitHub pixel avatar, reimagined as a developer sketching a database beside a laptop." />
+
 # Vikas Kumar
 
 **Spring Boot backend developer** · Computer Science at SIT Pune · Class of 2028
