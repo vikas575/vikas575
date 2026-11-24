@@ -55,7 +55,8 @@ An admin can manage other accounts. What happens when they try to remove the las
 | Backend | **Spring Boot**, REST API design, MVC, JDBC, JWT and session authentication |
 | Databases | PostgreSQL, MySQL, MongoDB, SQL, schema design, stored procedures, triggers, query optimization |
 | Tools | Git, GitHub, Linux CLI, IntelliJ IDEA, VS Code, Postman |
-| AI & ML | LLM integration, RAG pipelines, FAISS, supervised learning, deep learning, prompt engineering |
+| AI & ML fundamentals | Supervised and unsupervised learning, deep learning, recommender systems, reinforcement learning |
+| Applied AI | Prompt engineering, LLM integration, multilingual embeddings, vector search with FAISS, retrieval-augmented generation (RAG) |
 | CS foundations | Data structures and algorithms, object-oriented programming, operating systems, computer networks, database management systems |
 
 <p align="center"><img src="https://raw.githubusercontent.com/vikas575/vikas575/main/assets/espresso.svg" width="126" alt="A small pixel-art coffee cup with rising steam" /></p>
