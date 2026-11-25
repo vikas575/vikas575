@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-58 -16 924 128" role="img" aria-labelledby="title desc">
 <title id="title">Growing contribution snake</title>
-<desc id="desc">A green snake gains one segment for each of 23 active days. The faintest green marks days with zero contributions.</desc>
+<desc id="desc">A green snake gains one segment for each of 24 active days. The faintest green marks days with zero contributions.</desc>
 <style>@media (prefers-reduced-motion: reduce) { .animation { display: none } }</style>
 <defs><path id="route" d="M-48 0 L-32 0 L-16 0 L0 0 L16 0 L32 0 L32 16 L32 32 L32 48 L32 64 L32 80 L32 96 L48 96 L64 96 L80 96 L96 96 L112 96 L128 96 L144 96 L160 96 L176 96 L192 96 L192 80 L192 64 L192 48 L192 32 L192 16 L192 0 L208 0 L224 0 L240 0 L256 0 L272 0 L288 0 L288 16 L288 32 L288 48 L288 64 L288 80 L288 96 L304 96 L304 80 L304 64 L304 48 L304 32 L304 16 L304 0 L320 0 L320 16 L320 32 L320 48 L320 64 L320 80 L320 96 L336 96 L336 80 L336 64 L336 48 L336 32 L336 16 L336 0 L352 0 L352 16 L352 32 L352 48 L352 64 L352 80 L352 96 L368 96 L384 96 L400 96 L416 96 L432 96 L448 96 L464 96 L480 96 L496 96 L496 80 L496 64 L496 48 L496 32 L496 16 L496 0 L512 0 L512 16 L512 32 L512 48 L512 64 L512 80 L512 96 L528 96 L544 96 L560 96 L576 96 L592 96 L608 96 L608 80 L608 64 L608 48 L608 32 L608 16 L608 0 L624 0 L640 0 L640 16 L640 32 L640 48 L640 64 L640 80 L640 96 L656 96 L672 96 L688 96 L704 96 L720 96 L736 96 L752 96 L768 96 L784 96 L800 96 L816 96 L816 80 L816 64 L816 48 L816 32 L816 16 L816 0 L832 0 L832 16 L832 32 L832 48 L832 64 L832 80 L832 96 L848 96"/></defs>
 <g id="calendar"><rect x="-6" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -89,7 +89,7 @@
 <rect x="170" y="90" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="186" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="186" y="10" width="12" height="12" rx="3" fill="#98e4ac"></rect>
-<rect x="186" y="26" width="12" height="12" rx="3" fill="#51c774"></rect>
+<rect x="186" y="26" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="186" y="42" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="186" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="186" y="74" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -129,7 +129,7 @@
 <rect x="266" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="266" y="74" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="266" y="90" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="282" y="-6" width="12" height="12" rx="3" fill="#51c774"></rect>
+<rect x="282" y="-6" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="282" y="10" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="282" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="282" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -142,16 +142,16 @@
 <rect x="298" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="298" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="298" y="74" width="12" height="12" rx="3" fill="#98e4ac"></rect>
-<rect x="298" y="90" width="12" height="12" rx="3" fill="#51c774"></rect>
+<rect x="298" y="90" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="314" y="-6" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="314" y="10" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="314" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="314" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="314" y="58" width="12" height="12" rx="3" fill="#51c774"></rect>
+<rect x="314" y="58" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="314" y="74" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="314" y="90" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="330" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="330" y="10" width="12" height="12" rx="3" fill="#51c774"></rect>
+<rect x="330" y="10" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="330" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="330" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="330" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -224,7 +224,7 @@
 <rect x="490" y="10" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="490" y="26" width="12" height="12" rx="3" fill="#51c774"></rect>
 <rect x="490" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="490" y="58" width="12" height="12" rx="3" fill="#13713c"></rect>
+<rect x="490" y="58" width="12" height="12" rx="3" fill="#269c53"></rect>
 <rect x="490" y="74" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="490" y="90" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="506" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -233,7 +233,7 @@
 <rect x="506" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="506" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="506" y="74" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="506" y="90" width="12" height="12" rx="3" fill="#13713c"></rect>
+<rect x="506" y="90" width="12" height="12" rx="3" fill="#269c53"></rect>
 <rect x="522" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="522" y="10" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="522" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -272,7 +272,7 @@
 <rect x="602" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="602" y="10" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="602" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="602" y="42" width="12" height="12" rx="3" fill="#51c774"></rect>
+<rect x="602" y="42" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="602" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="602" y="74" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="602" y="90" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -289,7 +289,7 @@
 <rect x="634" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="634" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="634" y="74" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="634" y="90" width="12" height="12" rx="3" fill="#51c774"></rect>
+<rect x="634" y="90" width="12" height="12" rx="3" fill="#98e4ac"></rect>
 <rect x="650" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="650" y="10" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="650" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
@@ -365,11 +365,12 @@
 <rect x="810" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="810" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="810" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="810" y="74" width="12" height="12" rx="3" fill="#13713c"></rect>
+<rect x="810" y="74" width="12" height="12" rx="3" fill="#269c53"></rect>
 <rect x="810" y="90" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="826" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="826" y="10" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
-<rect x="826" y="26" width="12" height="12" rx="3" fill="#13713c"></rect></g>
+<rect x="826" y="26" width="12" height="12" rx="3" fill="#13713c"></rect>
+<rect x="826" y="42" width="12" height="12" rx="3" fill="#98e4ac"></rect></g>
 <g class="animation"><g id="eaten"><g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.0700637" dur="18.055s" repeatCount="indefinite"/><rect x="26" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
 <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.0828025" dur="18.055s" repeatCount="indefinite"/><rect x="26" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
 <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.1783439" dur="18.055s" repeatCount="indefinite"/><rect x="186" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
@@ -392,7 +393,9 @@
 <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.6496815" dur="18.055s" repeatCount="indefinite"/><rect x="602" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
 <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.7197452" dur="18.055s" repeatCount="indefinite"/><rect x="634" y="90" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
 <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.7961783" dur="18.055s" repeatCount="indefinite"/><rect x="810" y="74" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
-<g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.8471338" dur="18.055s" repeatCount="indefinite"/><rect x="826" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g></g><g id="snake"><g class="segment" opacity="0" stroke="#11612e" stroke-width="1.4"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.8471338" dur="18.055s" repeatCount="indefinite"/><animateMotion dur="18.055s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;0;0.8134328;0.8134328" keyTimes="0;0.1847134;0.8789809;1"><mpath href="#route" xlink:href="#route"/></animateMotion><rect x="-8" y="-5.5" width="16" height="11" rx="5" fill="#69eb49"/></g>
+<g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.8471338" dur="18.055s" repeatCount="indefinite"/><rect x="826" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
+<g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.8535032" dur="18.055s" repeatCount="indefinite"/><rect x="826" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g></g><g id="snake"><g class="segment" opacity="0" stroke="#11612e" stroke-width="1.4"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.8535032" dur="18.055s" repeatCount="indefinite"/><animateMotion dur="18.055s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;0;0.8059701;0.8059701" keyTimes="0;0.1910828;0.8789809;1"><mpath href="#route" xlink:href="#route"/></animateMotion><rect x="-8" y="-5.5" width="16" height="11" rx="5" fill="#89f15b"/></g>
+<g class="segment" opacity="0" stroke="#11612e" stroke-width="1.4"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.8471338" dur="18.055s" repeatCount="indefinite"/><animateMotion dur="18.055s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;0;0.8134328;0.8134328" keyTimes="0;0.1847134;0.8789809;1"><mpath href="#route" xlink:href="#route"/></animateMotion><rect x="-8" y="-5.5" width="16" height="11" rx="5" fill="#69eb49"/></g>
 <g class="segment" opacity="0" stroke="#11612e" stroke-width="1.4"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.7961783" dur="18.055s" repeatCount="indefinite"/><animateMotion dur="18.055s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;0;0.8208955;0.8208955" keyTimes="0;0.1783439;0.8789809;1"><mpath href="#route" xlink:href="#route"/></animateMotion><rect x="-8" y="-5.5" width="16" height="11" rx="5" fill="#89f15b"/></g>
 <g class="segment" opacity="0" stroke="#11612e" stroke-width="1.4"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.7197452" dur="18.055s" repeatCount="indefinite"/><animateMotion dur="18.055s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;0;0.8283582;0.8283582" keyTimes="0;0.1719745;0.8789809;1"><mpath href="#route" xlink:href="#route"/></animateMotion><rect x="-8" y="-5.5" width="16" height="11" rx="5" fill="#69eb49"/></g>
 <g class="segment" opacity="0" stroke="#11612e" stroke-width="1.4"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.6496815" dur="18.055s" repeatCount="indefinite"/><animateMotion dur="18.055s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;0;0.8358209;0.8358209" keyTimes="0;0.1656051;0.8789809;1"><mpath href="#route" xlink:href="#route"/></animateMotion><rect x="-8" y="-5.5" width="16" height="11" rx="5" fill="#89f15b"/></g>
