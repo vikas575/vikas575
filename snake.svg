@@ -370,7 +370,8 @@
 <rect x="826" y="-6" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="826" y="10" width="12" height="12" rx="3" fill="#d9f5e2"></rect>
 <rect x="826" y="26" width="12" height="12" rx="3" fill="#13713c"></rect>
-<rect x="826" y="42" width="12" height="12" rx="3" fill="#98e4ac"></rect></g>
+<rect x="826" y="42" width="12" height="12" rx="3" fill="#98e4ac"></rect>
+<rect x="826" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
 <g class="animation"><g id="eaten"><g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.0700637" dur="18.055s" repeatCount="indefinite"/><rect x="26" y="26" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
 <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.0828025" dur="18.055s" repeatCount="indefinite"/><rect x="26" y="58" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
 <g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.1783439" dur="18.055s" repeatCount="indefinite"/><rect x="186" y="42" width="12" height="12" rx="3" fill="#d9f5e2"></rect></g>
